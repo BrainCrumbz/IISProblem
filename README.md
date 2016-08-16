@@ -28,3 +28,10 @@ ASP.NET Core solution showing problem with IISExpress and renamed project direct
 ## Actual
 
 * VS stops and leaves debug mode unexpectedly. Browser shows *Server unreachable* page
+
+## Environment
+
+* Visual Studio 2015 Community Edition Version 14.0.25424.00 Update 3
+* Microsoft .NET Core Tools (Preview 2) 14.1.20810.0
+  * `dotnet --version` reports *1.0.0-preview2-003121*
+  * Also installed brand new one, *DotNetCore.1.0.0-VS2015Tools.Preview2.0.1.exe*, with no improvement
